@@ -1,0 +1,47 @@
+.App  {
+display: flex;
+justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.container  input {
+width: 300px;
+height: 30px;
+}
+
+.container textarea {
+    margin-top: 50px;
+}
+.container  .input {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+    width: 400px;
+
+}
+.container  .input .text {
+    position: absolute;
+}
+
+.container  .area .text {
+    position: absolute;
+}
+
+.container  .area {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+    width: 400px;
+}
+.container  .lower {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+    width: 400px;
+}
